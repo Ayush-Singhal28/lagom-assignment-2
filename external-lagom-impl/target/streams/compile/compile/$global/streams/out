@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/external-lagom-model/external-lagom-impl/src/main/scala/edu/knoldus/external/impl/ExternalServiceLoader.scala:30:69: Cannot find a value of type: [com.example.hello.api.HellolagomService][0m
+[0m[[0m[31merror[0m] [0m[0m  override lazy val lagomServer = serverFor[ExternalServiceApi](wire[ExternalServiceImpl])[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
